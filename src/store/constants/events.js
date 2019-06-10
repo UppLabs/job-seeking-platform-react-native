@@ -1,0 +1,5 @@
+export const SET_EVENTS = 'SET_EVENTS';
+export const SET_EVENT = 'SET_EVENT';
+export const SET_EVENT_FEED = 'SET_EVENT_FEED';
+export const SET_EVENT_COMPANY = 'SET_EVENT_COMPANY';
+export const SET_EVENT_FILTER_APPLIED = 'SET_EVENT_FILTER_APPLIED';
